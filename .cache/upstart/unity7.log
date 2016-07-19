@@ -1,0 +1,12 @@
+javaldx: Could not find a Java Runtime Environment!
+Warning: failed to read path from javaldx
+
+(soffice:5226): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+(soffice:5240): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+(soffice:5240): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+(process:5312): GLib-CRITICAL **: g_path_get_basename: assertion 'file_name != NULL' failed
+
+(firefox:1749): Gtk-WARNING **: Attempting to read the recently used resources file at '/home/student/.local/share/recently-used.xbel', but the parser failed: Failed to open file '/home/student/.local/share/recently-used.xbel': Permission denied.
